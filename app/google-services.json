@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "859329539684",
+    "firebase_url": "https://helpbot-5d0de.firebaseio.com",
+    "project_id": "helpbot-5d0de",
+    "storage_bucket": "helpbot-5d0de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859329539684:android:69299d12d5042b7b",
+        "android_client_info": {
+          "package_name": "com.example.sherlock.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859329539684-hl7avbd19eb5biqpaa4pm2fn8liom94v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkBs-MsMhz3je8fY4gzKPNBBNlpUn1FkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
